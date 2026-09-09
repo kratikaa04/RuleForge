@@ -1,0 +1,9 @@
+.stack-work/
+*~
+*.hi
+*.o
+dist-newstyle/
+
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
